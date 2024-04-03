@@ -1,12 +1,12 @@
 # Funciones que podría usar el instructor
 En este documento se muestran algunas muestras de formatos que se pueden usar en el archivo **README.me** que pueden ser de ayuda para el instructor
 
-- [Fragmentos de código](#section-1)
-- [Listas](#section-2)
+- [Fragmentos de código](#fragmentos-de-codigo)
+- [Listas](#listas)
 - [Tablas](#section-3)
 - [Insertar imágenes](#section-4)
 
-# [Fragmentos de código](#section-1)
+# Fragmentos de codigo
 
 
 ## Bloques de código
@@ -98,7 +98,7 @@ data.forEach(t=>{
 })
 
 ```
-# [Listas](#section-2)
+# Listas
 
 ## Lista simple
 - elemento 1
