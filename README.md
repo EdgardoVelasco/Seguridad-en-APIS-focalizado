@@ -5,6 +5,7 @@ En este documento se muestran algunas muestras de formatos que se pueden usar en
 - [Listas](#listas)
 - [Tablas](#tablas)
 - [Insertar imágenes](#imagenes)
+- [Alertas](#alertas)
 
 # Fragmentos de codigo
 
@@ -148,7 +149,6 @@ data.forEach(t=>{
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
-
 # Imagenes
 
 Para insertar una imágen se usa la siguiente sintáxis:
@@ -187,3 +187,20 @@ El url de la imágen puede ser de la siguiente forma:
             - **width**: Ancho de la imágen en pixeles
             - **height**: Alto de la imágen en pixeles
 
+
+# Alertas
+
+> [!NOTE]
+> útil para agregar alguna nota extra
+
+> [!TIP]
+> útil para dar algún tip
+
+> [!IMPORTANT]
+> útil para algún recordatorio
+
+> [!WARNING]
+> útil para alertar a los alumnos
+
+> [!CAUTION]
+> útil para sugerencias y precauciones.

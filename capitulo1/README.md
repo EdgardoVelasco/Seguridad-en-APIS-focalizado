@@ -38,6 +38,7 @@ docker run --name mysqlserver -e MYSQL_ROOT_PASSWORD=1234 -e MYSQL_DATABASE=trad
     - Database: traducciones
     - Network: mired
     - Name: mysqlserver 
+
 > [!IMPORTANT]
 > Recordar el nombre del contenedor ya que lo usaremos más adelante. 
 
