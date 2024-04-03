@@ -3,8 +3,8 @@ En este documento se muestran algunas muestras de formatos que se pueden usar en
 
 - [Fragmentos de código](#fragmentos-de-codigo)
 - [Listas](#listas)
-- [Tablas](#section-3)
-- [Insertar imágenes](#section-4)
+- [Tablas](#tablas)
+- [Insertar imágenes](#imagenes)
 
 # Fragmentos de codigo
 
@@ -123,7 +123,8 @@ data.forEach(t=>{
 - [x] tarea 2
 - [ ] tarea 3 
 - [ ] \(Optional) tarea opcional 
-# [Tablas](#section-3)
+
+# Tablas
 
 ## Tabla simple
 
@@ -147,7 +148,8 @@ data.forEach(t=>{
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
-# [Insertar Imágenes](#section-4)
+
+# Imagenes
 
 Para insertar una imágen se usa la siguiente sintáxis:
 
