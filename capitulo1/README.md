@@ -5,8 +5,9 @@ Este texto es una descripción general del proyecto. Se debe de sustituir por el
 que el instructor decida agregar. 
 
 ## Objetivos
-- objetivo1
-- objetivo2
+<!--nuevo comentario-->
+- objetivo Nuevo
+- objetivo Nuevo
 - objetivo3
 - objetivo4
 
